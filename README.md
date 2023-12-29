@@ -5,4 +5,4 @@
 > And a wise effortless hack to create what you call a notebook where code can be executed session by session
 
 # some realted screen shots
-![mainscreen]("https://github.com/green-gray-gaurav/py-book/blob/main/py_book_trash.png")
+![mainscreen](https://github.com/green-gray-gaurav/py-book/blob/main/py_book_trash.png)
